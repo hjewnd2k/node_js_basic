@@ -1,0 +1,24 @@
+{
+  "name": "nodebasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjewnd2k/node_js_basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjewnd2k/node_js_basic/issues"
+  },
+  "homepage": "https://github.com/hjewnd2k/node_js_basic#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
