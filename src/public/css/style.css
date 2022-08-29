@@ -25,3 +25,25 @@ ul {
   .active {
     background-color: #04AA6D;
   }
+
+.create-user-container {
+  padding: 15px;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.create-user-container label {
+    display: block;
+  }
+
+.create-user-container .btn-submit {
+    display: block;
+    cursor: pointer;
+  }
+
+  .t-body {
+    display: flex !important;
+    justify-content:space-evenly;
+  }
